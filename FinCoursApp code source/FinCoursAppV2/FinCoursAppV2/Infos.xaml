@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinCoursAppV2.Infos">
+    
+    <NavigationPage.TitleView>
+        <Label Text = "Back" FontSize="25"/>
+    </NavigationPage.TitleView>
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <Label x:Name="Timer" BackgroundColor="#2968c0" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="0, 5, 0, 0" HeightRequest="150" FontSize="25"/>
+                <Label x:Name="EndLesson" Text = "No Lesson" BackgroundColor="#2f70bb" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="150" FontSize="25"/>
+                <Label x:Name="EndDay" Text = "Nothing" BackgroundColor="#3373bc" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="150" FontSize="25"/>
+                <Label x:Name="EndingSchool" BackgroundColor="#417dc2" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HeightRequest="150" FontSize="25"/>
+                <Label x:Name="Bac" BackgroundColor="#4e88cb" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="0, 0, 0, 5" HeightRequest="150" FontSize="25"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinCoursAppV2.Graphe"
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms">
+    
+    <NavigationPage.TitleView>
+        <Label Text = "Back" FontSize="25"/>
+    </NavigationPage.TitleView>
+    
+    <ContentPage.Content Orientation="Horizontal">
+        <StackLayout Orientation="Horizontal">
+            <forms:ChartView x:Name="chartView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

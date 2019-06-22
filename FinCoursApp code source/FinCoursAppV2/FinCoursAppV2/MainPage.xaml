@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FinCoursAppV2"
+             x:Class="FinCoursAppV2.MainPage">
+    <NavigationPage.TitleView>
+        <Label HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" FontSize="15">
+            <Label.Text>
+             Welcome to Dorian's Application,
+the world's best one
+            </Label.Text>
+        </Label>
+    </NavigationPage.TitleView>
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Statistics Page" BackgroundColor="#2196f3" Clicked="NavigateButton2_OnClicked" Margin="2, 5, 2, 0" FontSize="25"/>
+        <Button Text="Graph Page" BackgroundColor="#2196f3" Clicked="NavigateButton_OnClicked" Margin="2, 0, 2, 0" FontSize="25"/>
+        <Button Text="Global chat ?" BackgroundColor="#2196f3" Margin="2, 0, 2, 0" FontSize="25"/>
+    </StackLayout>
+
+</ContentPage>

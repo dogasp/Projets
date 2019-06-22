@@ -1,0 +1,14 @@
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\bin\Debug\netstandard2.0\FinCoursAppV2.deps.json
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\bin\Debug\netstandard2.0\FinCoursAppV2.dll
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\bin\Debug\netstandard2.0\FinCoursAppV2.pdb
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.csprojAssemblyReference.cache
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\Graphe.xaml.g.cs
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\Infos.xaml.g.cs
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.csproj.CoreCompileInputs.cache
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.AssemblyInfoInputs.cache
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.AssemblyInfo.cs
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.dll
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\FinCoursAppV2.pdb
+C:\Users\Dogasp\source\repos\FinCoursAppV2\FinCoursAppV2\FinCoursAppV2\obj\Debug\netstandard2.0\XamlC.stamp
